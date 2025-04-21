@@ -17,7 +17,7 @@ WorkNest is a task management platform developed using the MERN (MongoDB, Expres
 
 **3. Report Generation**
 - Download task details in .xlsx format
-- Download user details .xlsx format
+- Download user details in .xlsx format
   
 **4. Admin and User Dashboards** 
 - View task summary (total tasks, pending tasks, in progress tasks, completed tasks)
