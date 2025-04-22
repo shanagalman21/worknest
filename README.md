@@ -5,7 +5,7 @@ WorkNest is a task management platform developed using the MERN (MongoDB, Expres
 
 ## Features
 **1. User Authentication and Registration** 
-- Secure user sign-up and login using JWT-based authentication.
+- Secure user sign up and login using JWT-based authentication.
 - Admins can invite users to the platform using a token-based invitation system.
 
 **2. Task Management** 
